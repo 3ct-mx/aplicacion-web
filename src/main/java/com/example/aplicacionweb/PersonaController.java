@@ -13,6 +13,6 @@ public class PersonaController {
     @GetMapping
     public List<Persona> getPersonas(){
         return
-                List.of(new Persona("Ana",9));
+                List.of(new Persona("Pedro",9));
     }
 }
