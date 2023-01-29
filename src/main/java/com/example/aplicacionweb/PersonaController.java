@@ -15,6 +15,6 @@ public class PersonaController {
         return
                 List.of(new Persona("Pedro",9),
                         new Persona("Rocio",8),
-                        new Persona("Arturo",9));gity
+                        new Persona("Arturo",9));
     }
 }
