@@ -14,6 +14,7 @@ public class PersonaController {
     public List<Persona> getPersonas(){
         return
                 List.of(new Persona("Pedro",9),
-                        new Persona("Rocio",8));
+                        new Persona("Rocio",8),
+                        new Persona("Arturo",9));
     }
 }
